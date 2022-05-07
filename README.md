@@ -1,6 +1,6 @@
 # Recipe-Website
 Recipe website:
-Homepage
-Login page
-Favorites page
+Homepage,
+Login page,
+Favorites page,
 Explore page
