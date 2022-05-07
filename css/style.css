@@ -1,0 +1,40 @@
+.carousel-item > img {
+    height: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.input-group {
+    margin: 10px;
+    width: 400px;
+    position:absolute;
+    z-index:9999999;
+    top:20px; /* change to whatever you want */
+    left:10px; /* change to whatever you want */
+    right:auto; /* change to whatever you want */
+    bottom:auto; /* change to whatever you want */
+    align-items: flex-end;
+
+}
+
+.input-group > button {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+#content {
+   margin: 10px;
+   text-align: center;
+   justify-content: center;
+}
+
+footer {
+    background-color: #C0C0C0;
+    min-height: 50px;
+    text-align: center;
+    color: white;
+}
+
+div#carousel-example-generic {
+    position:relative;
+}

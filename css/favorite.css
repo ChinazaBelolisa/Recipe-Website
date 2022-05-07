@@ -1,0 +1,43 @@
+main {
+    display: flex;
+    flex-grow: 1;
+}
+
+.flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+  
+}
+
+.input-group {
+    margin: 10px;
+    width: 400px;
+}
+
+#content {
+   margin: 10px;
+   text-align: center;
+   justify-content: center;
+}
+
+footer {
+    background-color: #C0C0C0;
+    min-height: 50px;
+    text-align: center;
+    color: white;
+}
+
+div#carousel-example-generic {
+    position:relative;
+}
+
+div.form-group {
+    position:absolute;
+    z-index:9999999;
+    top:20px; 
+    left:10px; 
+    right:auto; 
+    bottom:auto; 
+}
